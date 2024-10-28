@@ -1,0 +1,128 @@
+.mynav{
+    background-color: #f2efe9;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 90px;
+    padding-bottom:60px;
+    width:  100%;
+}
+footer{
+    position: relative;
+    width:  100%;
+    bottom: 0;
+    background-color: #f2efe9;
+    padding:40px;
+}
+#one{
+    position:relative;
+    padding-right: 50px;
+    padding-left: 35px;
+    padding-top: 90px;
+    padding-bottom:30px;
+    margin-left: 180px;
+    text-align: left;
+}
+#second{
+    position:relative;
+    padding:50px;
+    text-align: left;
+}
+#third{
+    width: 100px;
+    height: 40px;
+    padding: 10px;
+    display: block;
+    float: right;
+    text-align: center;
+}
+#fourth{
+    width: 120px;
+    height: 40px;
+    padding: 10px;
+    display: block;
+    float: right;
+    text-align: center;
+}
+#fifth{
+    width: 100px;
+    height: 40px;
+    padding: 10px;
+    display: block;
+    float: right;
+    text-align: center;
+}
+#sixth{
+    width: 100px;
+    height: 40px;
+    padding: 10px;
+    display: block;
+    float: right;
+    text-align: center;
+}
+.one{
+    position:relative;
+    padding-right: 50px;
+    padding-left: 80px;
+    padding-top: 30px;
+    padding-bottom:40px;
+    text-align: left;
+}
+.second{
+    position:relative;
+    height: 310px;
+    padding-right: 50px;
+    padding-left: 35px;
+    padding-top: 90px;
+    padding-bottom:30px;
+    margin-left: 180px;
+    text-align: left;
+}
+#imgone{
+    width:150px;
+    height:150px;
+    padding-right: 40px;
+    padding-left: 80px;
+    padding-top: 80px;
+    padding-bottom:20px;
+    float:left;
+}
+.imgone{
+    width:400px;
+    height:310px;
+    padding-right: 40px;
+    padding-left: 80px;
+    padding-top: 60px;
+    padding-bottom:60px;
+    float:left;
+}
+
+body { 
+    width: 950px; 
+    margin: 0 auto;
+}
+
+h1 {
+    font-size:3em;
+    color: #2b2823;
+    font-family: "Didot",serif; 
+    margin-top: 20px;
+}
+table,
+th,
+td {
+    border-bottom: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+    text-align: center;
+}
+.qoute{
+    font-family: "Didot",serif;
+    color: #2b2823;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+ul,
+li{
+    padding-bottom: 5px;
+}
